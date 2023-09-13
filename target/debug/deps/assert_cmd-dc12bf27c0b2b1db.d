@@ -1,0 +1,11 @@
+C:\Users\satik\OneDrive\เอกสาร\ForRust\HW7\hw7_66011215_satikit\target\debug\deps\assert_cmd-dc12bf27c0b2b1db.rmeta: C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md
+
+C:\Users\satik\OneDrive\เอกสาร\ForRust\HW7\hw7_66011215_satikit\target\debug\deps\assert_cmd-dc12bf27c0b2b1db.d: C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md
+
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\lib.rs:
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\assert.rs:
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cargo.rs:
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\cmd.rs:
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\output.rs:
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\color.rs:
+C:\Users\satik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.12\src\../README.md:
