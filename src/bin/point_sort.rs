@@ -1,5 +1,5 @@
 fn main() {
-    //2.2
+    //2.1
     let args: Vec<String> = std::env::args().collect();
     let args: Vec<f32> = args[1..].iter().map(|x| x.parse().unwrap_or(0.)).collect();
     if args.is_empty() {
@@ -16,13 +16,14 @@ fn main() {
                 continue;
             }
         }
+        
 
         //ascending due to x
         result.sort_by(|x, y| x.0.partial_cmp(&y.0).unwrap());
         println!("{:?}", result);
 
         //descending due to x
-        result.reverse();
+        result.sort_by(|x, y| y.0.partial_cmp(&x.0).unwrap());
         println!("{:?}", result);
 
         //ascending due to y
@@ -30,7 +31,7 @@ fn main() {
         println!("{:?}", result);
 
         //descending due to y
-        result.reverse();
+        result.sort_by(|x, y| y.1.partial_cmp(&x.1).unwrap());
         println!("{:?}", result);
     }
 }

@@ -16,7 +16,13 @@ fn main() {
         println!("{args:?}");
 
         //descending order
-        args.reverse();
+        for _ in 0..args.len()-1 {
+            for i in 0..args.len()-1 {
+                if args[i] < args[i+1] {
+                    args.swap(i,i+1);
+                }
+            }
+        }
         println!("{args:?}")
     }
 }

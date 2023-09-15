@@ -10,7 +10,7 @@ fn main() {
         println!("{args:?}");
 
         //descending order
-        args.reverse();
+        args.sort_by(|x, y| y.partial_cmp(&x).unwrap());
         println!("{args:?}")
     }
 }

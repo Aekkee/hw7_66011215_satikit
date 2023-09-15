@@ -29,7 +29,13 @@ fn main() {
         println!("{:?}", vec_num);
 
         //descending due to x
-        vec_num.reverse();
+        for _ in 0..vec_num.len() - 1 {
+            for i in 0..vec_num.len() - 1 {
+                if vec_num[i].0 < vec_num[i + 1].0 {
+                    vec_num.swap(i, i + 1);
+                }
+            }
+        }
         println!("{:?}", vec_num);
 
         //ascending due to y
@@ -43,7 +49,14 @@ fn main() {
         println!("{:?}", vec_num);
 
         //descending due to y
-        vec_num.reverse();
+                //ascending due to y
+                for _ in 0..vec_num.len() - 1 {
+                    for i in 0..vec_num.len() - 1 {
+                        if vec_num[i].1 < vec_num[i + 1].1 {
+                            vec_num.swap(i, i + 1);
+                        }
+                    }
+                }
         println!("{:?}", vec_num);
     }
 }
