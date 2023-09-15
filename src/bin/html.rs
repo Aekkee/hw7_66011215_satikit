@@ -1,10 +1,9 @@
 fn main() {
-
     //3.1 and 3.2 use same argument
     let args: Vec<String> = std::env::args().collect();
 
     //3.1
-    
+
     if args.get(1) == None {
     } else {
         let str_p: i32 = args[1].parse().unwrap_or(0);
@@ -32,7 +31,7 @@ fn main() {
         }
         println!("</table>");
 
-    //3.2
+        //3.2
 
         println!("<table>");
         println!("\t<tr>\n\t\t<th>x</th>\n\t\t<th>x^2</th>\n\t\t<th>x^3</th>\n\t</tr>");
